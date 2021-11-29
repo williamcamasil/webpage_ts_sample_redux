@@ -1,9 +1,15 @@
 # React Typescript with Redux
 
-### Iniciar o projeto
+### Projeto
 
 ```
+#Criar projeto
 npx create-react-app react-redux-ts --template typescript
+
+#Dependencia do redux
+yarn add redux react-redux redux-thunk
+yarn add -D @types/redux @types/react-redux @types/redux-thunk
+  
 ```
 
 
