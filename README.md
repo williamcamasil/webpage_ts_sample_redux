@@ -1,6 +1,6 @@
 # React Typescript with Redux
 
-### Projeto
+### [Projeto](https://www.youtube.com/watch?v=udr2rx_B99w)
 
 ```
 #Criar projeto
